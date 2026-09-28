@@ -1,4 +1,5 @@
-let sum=(a,b)=>{        //Without Function Name
-    console.log(a+b);
+//Without Argument Passing function
+let print=()=>{ 
+    console.log("Hi Engineer");
 }
-sum(5,8);
+print();
