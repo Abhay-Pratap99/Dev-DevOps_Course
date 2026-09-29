@@ -1,6 +1,5 @@
-let arr=[1,2,3,4,5];
-let print=function(el){
+let arr=[1,2,3,4];
+
+arr.forEach(function(el){
     console.log(el);
-}
-arr.forEach(print);
-console.log("Code Execution Successfully");
+});
