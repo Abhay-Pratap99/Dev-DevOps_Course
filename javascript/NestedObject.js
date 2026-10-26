@@ -9,3 +9,5 @@ const classinfo={
         Profile:"HFT Engineer"
     }
 };
+console.log(`The name is ${classinfo.Abhay.name}`);
+
